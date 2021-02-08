@@ -1,0 +1,27 @@
+* Project title : Site to sell used items(like OLX)
+
+* Python version used : python Python 3.7.3
+
+* Django version used : 3.0.4
+
+* Names of any other packages used and imported :
+	
+	- No other extra packages used.
+	- installed pillow
+	
+
+* list of requirements implemented :
+
+	* Login
+	* Register
+	* Forgot Password
+	* sell product
+	* list of product upload for selling by user.
+	* remove item from selling list.
+	* myprofile
+	* update profile 
+	* list of available product and we can search  product according to category and city.
+	* add product into cart
+	* list of product added into cart.
+	* remove product from cart
+	* Logout
